@@ -1,2 +1,0 @@
-# tienda-provisional
-Nizar
